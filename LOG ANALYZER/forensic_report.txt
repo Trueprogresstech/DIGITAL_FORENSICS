@@ -1,0 +1,78 @@
+2026-03-11 01:01:46 ERROR Service crashed unexpectedly for Database
+2026-03-11 01:14:46 ERROR Service crashed unexpectedly for Dave
+2026-03-11 01:20:59 ERROR Failed to send email for Alice
+2026-03-11 01:20:59 ERROR Failed to send email for Alice
+2026-03-11 01:23:21 ERROR User authentication failed for SSH
+2026-03-11 01:23:21 ERROR User authentication failed for SSH
+2026-03-11 02:23:13 ERROR Service crashed unexpectedly for SSH
+2026-03-11 02:51:46 ERROR User authentication failed for Backup
+2026-03-11 02:51:46 ERROR User authentication failed for Backup
+2026-03-11 03:00:19 ERROR Service crashed unexpectedly for WebServer
+2026-03-11 03:18:41 ERROR Failed to send email for Charlie
+2026-03-11 03:18:41 ERROR Failed to send email for Charlie
+2026-03-11 03:23:11 ERROR Service crashed unexpectedly for SSH
+2026-03-11 03:47:01 ERROR Failed to write to log file for Bob
+2026-03-11 03:47:01 ERROR Failed to write to log file for Bob
+2026-03-11 03:55:05 ERROR User authentication failed for Backup
+2026-03-11 03:55:05 ERROR User authentication failed for Backup
+2026-03-11 04:09:03 ERROR Failed to send email for Database
+2026-03-11 04:09:03 ERROR Failed to send email for Database
+2026-03-11 04:12:41 ERROR Service crashed unexpectedly for SSH
+2026-03-11 04:24:05 ERROR Failed to connect for SSH
+2026-03-11 04:24:05 ERROR Failed to connect for SSH
+2026-03-11 04:39:02 ERROR Failed to send email for Alice
+2026-03-11 04:39:02 ERROR Failed to send email for Alice
+2026-03-11 05:00:11 ERROR User authentication failed for Alice
+2026-03-11 05:00:11 ERROR User authentication failed for Alice
+2026-03-11 05:06:28 ERROR Failed to write to log file for Eve
+2026-03-11 05:06:28 ERROR Failed to write to log file for Eve
+2026-03-11 05:21:15 ERROR Failed to connect for Email
+2026-03-11 05:21:15 ERROR Failed to connect for Email
+2026-03-11 05:33:32 ERROR Service crashed unexpectedly for WebServer
+2026-03-11 05:37:12 ERROR User authentication failed for Eve
+2026-03-11 05:37:12 ERROR User authentication failed for Eve
+2026-03-11 05:45:40 ERROR Failed to write to log file for Backup
+2026-03-11 05:45:40 ERROR Failed to write to log file for Backup
+2026-03-11 05:55:42 ERROR Service crashed unexpectedly for Bob
+2026-03-11 06:17:59 ERROR Failed to send email for SSH
+2026-03-11 06:17:59 ERROR Failed to send email for SSH
+2026-03-11 06:24:50 ERROR Service crashed unexpectedly for Charlie
+2026-03-11 06:31:40 ERROR Service crashed unexpectedly for Charlie
+2026-03-11 06:48:00 ERROR Failed to send email for Charlie
+2026-03-11 06:48:00 ERROR Failed to send email for Charlie
+2026-03-11 06:48:44 ERROR Failed to send email for Bob
+2026-03-11 06:48:44 ERROR Failed to send email for Bob
+2026-03-11 07:07:15 ERROR Failed to send email for Eve
+2026-03-11 07:07:15 ERROR Failed to send email for Eve
+2026-03-11 07:16:57 ERROR User authentication failed for Charlie
+2026-03-11 07:16:57 ERROR User authentication failed for Charlie
+2026-03-11 07:21:18 ERROR Failed to write to log file for Database
+2026-03-11 07:21:18 ERROR Failed to write to log file for Database
+2026-03-11 07:55:31 ERROR Failed to connect for Dave
+2026-03-11 07:55:31 ERROR Failed to connect for Dave
+2026-03-11 08:17:06 ERROR User authentication failed for SSH
+2026-03-11 08:17:06 ERROR User authentication failed for SSH
+2026-03-11 08:52:32 ERROR Failed to write to log file for Backup
+2026-03-11 08:52:32 ERROR Failed to write to log file for Backup
+2026-03-11 09:28:50 ERROR User authentication failed for Alice
+2026-03-11 09:28:50 ERROR User authentication failed for Alice
+2026-03-11 09:47:03 ERROR Service crashed unexpectedly for Bob
+2026-03-11 09:56:21 ERROR Service crashed unexpectedly for Database
+2026-03-11 09:58:21 ERROR Failed to connect for Dave
+2026-03-11 09:58:21 ERROR Failed to connect for Dave
+2026-03-11 10:39:32 ERROR User authentication failed for Dave
+2026-03-11 10:39:32 ERROR User authentication failed for Dave
+2026-03-11 11:26:11 ERROR Failed to send email for SSH
+2026-03-11 11:26:11 ERROR Failed to send email for SSH
+2026-03-11 11:31:00 ERROR Failed to connect for WebServer
+2026-03-11 11:31:00 ERROR Failed to connect for WebServer
+2026-03-11 11:44:13 ERROR Failed to connect for Bob
+2026-03-11 11:44:13 ERROR Failed to connect for Bob
+2026-03-11 11:56:00 ERROR Service crashed unexpectedly for Alice
+2026-03-11 12:16:03 ERROR User authentication failed for Dave
+2026-03-11 12:16:03 ERROR User authentication failed for Dave
+2026-03-11 12:20:47 ERROR Service crashed unexpectedly for Backup
+2026-03-11 13:20:31 ERROR User authentication failed for Dave
+2026-03-11 13:20:31 ERROR User authentication failed for Dave
+2026-03-11 13:49:57 ERROR Failed to send email for Dave
+2026-03-11 13:49:57 ERROR Failed to send email for Dave
